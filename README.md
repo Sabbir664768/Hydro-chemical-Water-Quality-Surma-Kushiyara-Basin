@@ -1,1 +1,7 @@
 # Hydro-chemical-Water-Quality-Surma-Kushiyara-Basin
+
+**Title:** Hydro-chemical characteristics and quality assessment of surface and ground water quality in the first part of the Eastern Surma-Kushiyara Floodplain Basin for drinking and irrigation utilities
+
+**Abstract**
+
+This study has been conducted in the first part of the Eastern Surma-Kushiyara Floodplain Basin located in Golapganj Upazila, Sylhet district, Bangladesh. A total of 60 water samples (30 for surface and 30 for ground) were gathered to examine the hydro-chemical properties of surface and groundwater. To define the water quality for general, drinking, and irrigation uses, several different statistical and graphical techniques were used. In addition, water quality parameters were utilized to assess the quality of the water for agricultural usage. A comparison of standard values for different parameters indicates that the condition of the water at the study site is not completely normal for drinking. According to the results, electro-neutrality balances are not properly satisfied. The most common water type in the field of study is Ca-HCO3 water (both surface and ground), but Mg-HCO3 water (33 percent of surface water samples) is also present. The obtained results also indicate that both the quality of surface and groundwater in the study site is suitable for the use of irrigation purposes. The outcome of this study is expected to be useful for the inspection of groundwater and surface water and for future regulations at the site of the study.
